@@ -7,7 +7,7 @@ O Projeto contempla:
 4) Geração de dados dinâmico (Faker)
 5) Screenshots
 
->>>>> Para executar o projeto demoSite, basta clona-lo em sua máquina >>>>>
+**Para executar o projeto demoSite, basta cloná-lo em sua máquina! :)
 
 Realize os comandos abaixo:
 1) Na pasta onde quer que fique o projeto, clique com o botão direito do mouse e selecione a opção de git bash.
